@@ -5,7 +5,7 @@ platform = 'pc'
 
 URL = 'https://api.fortnitetracker.com/v1/profile/' + platform + '/{}' 
 
-headers = {'TRN-Api-Key' : '3fccdb07-5060-4fde-a4e7-661ea0354663'}
+headers = {'TRN-Api-Key' : '1234'}
 
 app = Flask(__name__)
 
